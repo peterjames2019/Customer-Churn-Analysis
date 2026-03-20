@@ -106,6 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📫 **Contact**
 
 * **Favour Peter James** 
+* **Portfolio** [https://peterjames2019.github.io/]
 * **LinkedIn:** [https://linkedin.com/in/favour-peter-43b330263]
 * **GitHub:** [https://github.com/peterjames2019]
 
